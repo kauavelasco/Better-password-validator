@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(img/download\ \(1\).jfif) no-repeat;
+    background: url(img/th\ \(2\).jfif) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -50,6 +50,7 @@ body{
     border-radius: 40px;
     padding: 20px 45px 20px 20px;
     color: #fff;
+    font-size: 14.5px;
 }
 
 .input-box input::placeholder{
